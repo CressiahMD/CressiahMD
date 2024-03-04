@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I'm curently a 3rd year BSIT student
-🥺 Im so tired right now!
+- 💻 I'm curently a 3rd year BSIT student
+- 🥺 Im so tired right now!
