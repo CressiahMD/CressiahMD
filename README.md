@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Curently a 3rd year BSIT student
+
+💻 I'm curently a 3rd year BSIT student
+🥺 Im so tired right now!
