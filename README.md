@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cressiah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate 3rd year student</h3>
 
 - ⚡ Fun fact **3rd year BSIT student nako kol!**
 
