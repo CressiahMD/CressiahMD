@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cressiah</h1>
-<h3 align="center">A passionate 3rd year student</h3>
+<h3 align="center">A passionate 3rd year student from Philippines</h3>
 
-- ⚡ Fun fact **3rd year BSIT student nako kol!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
